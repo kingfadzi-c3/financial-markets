@@ -1,0 +1,29 @@
+type BondTradesMarket mixes Canonical<BondTradesMarket> {
+	tradeQuantity: string 
+	quantityAsString: string 
+	timeOfExecution: string 
+	settlementDate: string 
+	tradeModifier: string 
+	secondModifier: string 
+	specialPriceIndicator: string 
+	asOfTrade: string 
+	reportingParty: string 
+	tradeStatus: string 
+	reportingPartyType: string 
+	contraPartyType: string 
+	securityId: string 
+	issueIdentifier: string 
+	descriptionOfIssuer: string 
+	subproductType: string 
+	couponRate: string 
+	maturityDate: string 
+	price: string 
+	yield: string 
+	tradeDate: string 
+	symbol: string 
+	cusip: string 
+	callable: string 
+	commissionIndicator: string 
+	ATSIndicator: string 
+	remuneration: string
+}

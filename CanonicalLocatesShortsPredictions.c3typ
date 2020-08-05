@@ -1,0 +1,8 @@
+type CanonicalLocatesShortsPredictions mixes Canonical<CanonicalLocatesShortsPredictions> {
+  Ticker: string
+  ClientId: string
+  Date: string
+  clientLocateQuantity: string
+  clientShortQuantity: string
+  Prediction: string
+}

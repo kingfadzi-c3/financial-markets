@@ -1,0 +1,7 @@
+type CountrySeries mixes Canonical<CountrySeries> {
+	SeriesId: string 
+	non_country_id: string 
+	Country: string 
+	start: string 
+	end: string
+}

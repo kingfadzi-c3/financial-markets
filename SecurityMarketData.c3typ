@@ -1,0 +1,7 @@
+type SecurityMarketData mixes Canonical<SecurityMarketData> {
+
+	id: string 
+
+	//nothing defined in csv
+
+}

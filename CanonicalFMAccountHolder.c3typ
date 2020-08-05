@@ -1,0 +1,4 @@
+type CanonicalFMAccountHolder mixes Canonical<CanonicalFMAccountHolder> {
+	ClientName: string
+	Id: string
+}

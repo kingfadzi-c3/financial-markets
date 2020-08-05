@@ -1,0 +1,12 @@
+type FinancialProduct mixes Canonical<FinancialProduct> {
+	Ticker: string 
+	Name: string 
+	AssetClass: string 
+	AssetSubclass: string 
+	Sector: string 
+	SEDOL: string 
+	ISIN: string 
+	Exchange: string 
+	CountryIssue: string
+
+}

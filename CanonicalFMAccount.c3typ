@@ -1,0 +1,7 @@
+type CanonicalFMAccount mixes Canonical<CanonicalFMAccount> {
+	AccountName: string
+	Id: string
+	OpenDate: string
+	CloseDate: string
+	Country: string	
+}

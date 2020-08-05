@@ -1,0 +1,9 @@
+type CanonicalFinancialSecurity mixes Canonical<CanonicalFinancialSecurity> {
+  Ticker: string
+  Name: string
+  AssetClass: string
+  Sector: string
+  SEDOL: string
+  ISIN: string
+  Exchange: string
+}

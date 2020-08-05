@@ -1,0 +1,9 @@
+type CanonicalMarketData mixes Canonical<CanonicalMarketData> {
+  Date: string
+  Open: string
+  High: string
+  Low: string
+  Close: string
+  Volume: string
+  Ticker: string
+}

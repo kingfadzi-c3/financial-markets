@@ -1,0 +1,4 @@
+type CanonicalFinancialServicesClientSecurityPair mixes Canonical<CanonicalFinancialServicesClientSecurityPair> {
+  Ticker: string
+  ClientId: string
+}

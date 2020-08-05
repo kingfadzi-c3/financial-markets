@@ -1,0 +1,7 @@
+type CanonicalTest mixes Canonical<CanonicalTest> {
+	AccountName: string
+	Id: string
+	OpenDate: string
+	CloseDate: string
+	Country: string	
+}

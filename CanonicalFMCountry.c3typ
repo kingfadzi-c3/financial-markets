@@ -1,0 +1,9 @@
+type CanonicalFMCountry mixes Canonical<CanonicalFMCountry> {
+	id: string 
+	iso3166dash2: string 
+	name: string 
+	alphaTwoCode: string 
+	alphaThreeCode: string 
+	numericCode: string 
+	currency: string 
+}

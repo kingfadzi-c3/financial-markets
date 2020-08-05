@@ -1,0 +1,7 @@
+type CountrySeriesObservations mixes Canonical<CountrySeriesObservations> {
+	seriesId: string 
+	realtime_start: string 
+	realtime_end: string 
+	date: string 
+	value: string
+}

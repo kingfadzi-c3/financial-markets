@@ -1,0 +1,8 @@
+type FinraShortMarketDataData mixes Canonical<FinraShortMarketDataData> {
+	Date: string 
+	ShortVolume: string 
+	ShortExemptVolume: string 
+	TotalVolume: string 
+	Ticker: string 
+
+}

@@ -1,0 +1,8 @@
+type AccountHolderToAccountRelation mixes Canonical<AccountHolderToAccountRelation> {
+
+	ChildId: string 
+	ParentId: string 
+	OpenDate: string 
+	CloseDate: string 
+	
+}

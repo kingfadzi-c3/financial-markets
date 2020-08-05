@@ -1,0 +1,12 @@
+type SecurityFundementals mixes Canonical<SecurityFundementals> {
+
+	CashCashEquivalents: string 
+	TotalDebt: string 
+	StockPrice: string 
+	MarketCapitalization: string 
+	date: string 
+	NumberofShares: string 
+	EnterpriseValue: string 
+	Ticker: string
+
+}
