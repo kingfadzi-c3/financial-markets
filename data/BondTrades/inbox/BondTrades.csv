@@ -1,0 +1,2 @@
+accountId,tradeQuantity,quantityAsString,timeOfExecution,settlementDate,tradeModifier,secondModifier,specialPriceIndicator,asOfTrade,reportingParty,tradeStatus,reportingPartyType,contraPartyType,securityId,issueIdentifier,descriptionOfIssuer,subproductType,couponRate,maturityDate,price,yield,tradeDate,symbol,cusip,callable,commissionIndicator,ATSIndicator,remuneration
+1234AB,10000,10000,10:32:48,7/14/2020,_,_,-,-,B,T,D,C,C495885,MSFT.GC,MICROSOFT CORP,Corporate Bond,5.2,6/1/2039,148.984,2.056,7/10/2020,null,null,null,M, ,M

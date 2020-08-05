@@ -1,0 +1,16 @@
+Ticker,Name,AssetClass,AssetSubclass,Sector,SEDOL,ISIN,Exchange,CountryIssue
+MSFT,MICROSOFT CORP,Equity,Common Stock,Information Technology,2588173,US5949181045,NASDAQ,USA
+AAPL,APPLE INC,Equity,Common Stock,Information Technology,2046251,US0378331005,NASDAQ,USA
+AMZN,AMAZON COM INC,Equity,Common Stock,Consumer Discretionary,2000019,US0231351067,NASDAQ,USA
+FB,FACEBOOK CLASS A INC,Equity,Common Stock,Communication,B7TL820,US30303M1027,NASDAQ,USA
+GOOG,ALPHABET INC CLASS C,Equity,Common Stock,Communication,BYY88Y7,US02079K1079,NASDAQ,USA
+GOOGL,ALPHABET INC CLASS A,Equity,Common Stock,Communication,BYVY8G0,US02079K3059,NASDAQ,USA
+V,VISA INC CLASS A,Equity,Common Stock,Information Technology,B2PZN04,US92826C8394,New York Stock Exchange Inc.,USA
+UNH,UNITEDHEALTH GROUP INC,Equity,Common Stock,Health Care,2917766,US91324P1021,New York Stock Exchange Inc.,USA
+MA,MASTERCARD INC CLASS A,Equity,Common Stock,Information Technology,B121557,US57636Q1040,New York Stock Exchange Inc.,USA
+MRK,MERCK & CO INC,Equity,Common Stock,Health Care,2778844,US58933Y1055,New York Stock Exchange Inc.,USA
+CSCO,CISCO SYSTEMS INC,Equity,Common Stock,Information Technology,2198163,US17275R1023,NASDAQ,USA
+ADBE,ADOBE INC,Equity,Common Stock,Information Technology,2008154,US00724F1012,NASDAQ,USA
+NFLX,NETFLIX INC,Equity,Common Stock,Communication,2857817,US64110L1061,NASDAQ,USA
+NVDA,NVIDIA CORP,Equity,Common Stock,Information Technology,2379504,US67066G1040,NASDAQ,USA
+PEP,PEPSICO INC,Equity,Common Stock,Consumer Staples,2681511,US7134481081,NASDAQ,USA
